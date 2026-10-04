@@ -1,6 +1,7 @@
 # FarmSathi: Smart Agricultural Recommendation System
 
-FarmSathi is an AI-powered agricultural assistant designed to support farmers in making informed decisions. The system provides comprehensive recommendations for crops, fertilizers, pesticides, and crop disease management, ensuring better productivity and sustainable farming practices.<br>
+FarmSathi is an AI-powered agricultural assistant designed to support farmers in making informed decisions. The system provides comprehensive recommendations for crops, fertilizers, pesticides, and crop disease management, ensuring better productivity and sustainable farming practices.
+
 FarmSathi integrates advanced machine learning models to deliver the following features:
 
 - Crop Recommendation: Suggests the best crops based on soil and environmental conditions.
@@ -24,7 +25,7 @@ Upcoming Features:
 ## How to Run 🛠️
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/SubhamKhandual007/crop-recommendation.git
+git clone https://github.com/subham-khandual/crop-recommendation.git
 ```
 #### 2. Install the required dependencies from requirements.txt.
 ```bash
